@@ -43,7 +43,7 @@ The function returns bonus value and value depends on the number of coins bought
 
 # Deploy
 A user needs to deploy
-[Alttex](https://github.com/alttex/Smart-Contract/blob/master/Crowdsale.sol) contract without parameters, after that deploy [Crowdsale](https://github.com/alttex/Smart-Contract/blob/master/Crowdsale.sol) contract with parameters:
+[Alttex](https://github.com/alttex/Smart-Contract/blob/master/AlttexToken.sol) contract without parameters, after that deploy [Crowdsale](https://github.com/alttex/Smart-Contract/blob/master/Crowdsale.sol) contract with parameters:
 `_token = 0xb41C6Aa324695dd6F198A1713E4c57AFEd0FD7f0`,
 `_endTime = 1522749600`,
 `_wallet = 0xD229e7e74e881fD7e58bf4FBB8320ad9f54Ba800`,
