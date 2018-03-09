@@ -40,6 +40,13 @@ The function returns bonus value and value depends on time.
 
 The function returns bonus value and value depends on the number of coins bought(_value).
 
+### initialMint function
+```
+    function initialMint() onlyOwner public
+```
+
+The function mints tokens for preSale members.
+
 
 # Deploy
 A user needs to deploy
